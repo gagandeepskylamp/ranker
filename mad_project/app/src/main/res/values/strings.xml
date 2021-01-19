@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">mad_project</string>
+    <string name="image_name">Rintaro Okabe</string>
+    <string name="up">up</string>
+    <string name="down">down</string>
+    <string name="image_description">Rintaro Okabe (岡部 倫太郎 Okabe Rintarō?), often nicknamed Okarin (オカリン) or Hououin Kyouma (鳳凰院凶真), is a self-proclaimed mad scientist and the main protagonist of the Steins;Gate series. </string>
+    <string name="button">Button</string>
+    <string name="main_button">login/signup</string>
+    <string name="add">+</string>
+    <string name="login">login</string>
+    <string name="signup">signup</string>
+    <string name="new_topic_name">Enter Topic Name </string>
+    <string name="save">save</string>
+    <string name="add_segments">add_segments</string>
+    <string name="name_textview">name:</string>
+    <string name="image_textview">image:</string>
+    <string name="image_description_textview">image description :</string>
+    <string name="image_description_add">add image description</string>
+    <string name="ranker">RANKER</string>
+
+</resources>

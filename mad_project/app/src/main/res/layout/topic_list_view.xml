@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+     android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/topic_list_view"
+    android:background="@drawable/gradient"
+    tools:context="com.example.mad_project.topic_display_activity">
+
+
+    <ListView
+        android:id="@+id/topic_list_View"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="70dp"
+        android:paddingVertical="16dp"
+
+        />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="16dp"
+        android:layout_alignBottom="@+id/topic_list_View"
+        android:layout_alignRight="@+id/topic_list_View"
+        android:src="@drawable/plus_button_v2"
+
+        android:layout_marginEnd="16dp"
+        android:layout_marginLeft="100dp"
+        android:layout_alignEnd="@+id/topic_list_View"
+        android:contentDescription="@string/add_segments"
+        android:layout_marginStart="100dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+
+        android:text="TOPICS"
+        android:layout_height="56dp"
+        android:textColor="#ffffff"
+
+        android:textSize="50dp"
+        android:textAlignment="center"
+        android:gravity="center_horizontal"/>
+
+
+</RelativeLayout>
