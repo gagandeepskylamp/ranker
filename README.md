@@ -24,4 +24,4 @@ a page that shows all the topics added by the user.
 
 #some images of the application
 
-https://imgur.com/c1NUZzV
+ https://imgur.com/gallery/8ZF73N7
