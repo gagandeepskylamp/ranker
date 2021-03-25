@@ -11,13 +11,17 @@ user authentication service : Firebase
 database uses: Firebase real time database
 
 #how to start the application 
+
 each project uses a different configuration file , you need to create a project in firebase  and get the google-services.json file from firebase console and move it to your app level of your project in android studio.
+
 Refer to this link for more information : https://firebase.google.com/docs/android/setup
 
 #features that need to be implemented
+
 currently there is no feature that accepts pictures from user for sub-posts, a default picture is used.
 deletion of topics 
 a page that shows all the topics added by the user.
 
 #some images of the application
 
+https://imgur.com/c1NUZzV
