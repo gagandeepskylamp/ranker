@@ -24,4 +24,24 @@ a page that shows all the topics added by the user.
 
 #some images of the application
 
+Login page <br>
+<img src="ranker_screenshots/login.jpg" width="250" height=" 500">
+
+Registration page <br>
+<img src="ranker_screenshots/register.jpg" width="250" height=" 500">
+
+Topics page <br>
+<img src="ranker_screenshots/topics.jpg" width="250" height=" 500">
+
+Subtopics <br>
+<img src="ranker_screenshots/subtopics.jpg" width="250" height=" 500">
+
+Add image and subtopic (only the user who creates the topic can add or delete the subtopics) <br>
+<img src="ranker_screenshots/add_image.jpg" width="250" height=" 500">
+
+Delete subtopic <br>
+<img src="ranker_screenshots/delete_subtopic.jpg" width="250" height=" 500">
+
+ 
+ #imgur post , which contains the same images as above.
  https://imgur.com/gallery/8ZF73N7
